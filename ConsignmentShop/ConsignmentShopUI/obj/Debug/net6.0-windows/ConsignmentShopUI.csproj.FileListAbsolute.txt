@@ -1,0 +1,40 @@
+C:\SampleProj\ConsignmentShop\ConsignmentShopUI\bin\Debug\net6.0-windows\ConsignmentShopUI.exe
+C:\SampleProj\ConsignmentShop\ConsignmentShopUI\bin\Debug\net6.0-windows\ConsignmentShopUI.deps.json
+C:\SampleProj\ConsignmentShop\ConsignmentShopUI\bin\Debug\net6.0-windows\ConsignmentShopUI.runtimeconfig.json
+C:\SampleProj\ConsignmentShop\ConsignmentShopUI\bin\Debug\net6.0-windows\ConsignmentShopUI.dll
+C:\SampleProj\ConsignmentShop\ConsignmentShopUI\bin\Debug\net6.0-windows\ConsignmentShopUI.pdb
+C:\SampleProj\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.csproj.AssemblyReference.cache
+C:\SampleProj\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.ConsignmentShop.resources
+C:\SampleProj\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.csproj.GenerateResource.cache
+C:\SampleProj\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\SampleProj\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.AssemblyInfoInputs.cache
+C:\SampleProj\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.AssemblyInfo.cs
+C:\SampleProj\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.csproj.CoreCompileInputs.cache
+C:\SampleProj\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.dll
+C:\SampleProj\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\refint\ConsignmentShopUI.dll
+C:\SampleProj\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.pdb
+C:\SampleProj\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.genruntimeconfig.cache
+C:\SampleProj\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ref\ConsignmentShopUI.dll
+C:\SampleProj\ConsignmentShop\ConsignmentShopUI\bin\Debug\net6.0-windows\ConsignmentShopLibrary.dll
+C:\SampleProj\ConsignmentShop\ConsignmentShopUI\bin\Debug\net6.0-windows\ConsignmentShopLibrary.pdb
+C:\SampleProj\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.csproj.CopyComplete
+C:\All Projs\ConsignmentShop\ConsignmentShopUI\bin\Debug\net6.0-windows\ConsignmentShopUI.exe
+C:\All Projs\ConsignmentShop\ConsignmentShopUI\bin\Debug\net6.0-windows\ConsignmentShopUI.deps.json
+C:\All Projs\ConsignmentShop\ConsignmentShopUI\bin\Debug\net6.0-windows\ConsignmentShopUI.runtimeconfig.json
+C:\All Projs\ConsignmentShop\ConsignmentShopUI\bin\Debug\net6.0-windows\ConsignmentShopUI.dll
+C:\All Projs\ConsignmentShop\ConsignmentShopUI\bin\Debug\net6.0-windows\ConsignmentShopUI.pdb
+C:\All Projs\ConsignmentShop\ConsignmentShopUI\bin\Debug\net6.0-windows\ConsignmentShopLibrary.dll
+C:\All Projs\ConsignmentShop\ConsignmentShopUI\bin\Debug\net6.0-windows\ConsignmentShopLibrary.pdb
+C:\All Projs\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.csproj.AssemblyReference.cache
+C:\All Projs\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.ConsignmentShop.resources
+C:\All Projs\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.csproj.GenerateResource.cache
+C:\All Projs\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\All Projs\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.AssemblyInfoInputs.cache
+C:\All Projs\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.AssemblyInfo.cs
+C:\All Projs\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.csproj.CoreCompileInputs.cache
+C:\All Projs\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.csproj.CopyComplete
+C:\All Projs\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.dll
+C:\All Projs\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\refint\ConsignmentShopUI.dll
+C:\All Projs\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.pdb
+C:\All Projs\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ConsignmentShopUI.genruntimeconfig.cache
+C:\All Projs\ConsignmentShop\ConsignmentShopUI\obj\Debug\net6.0-windows\ref\ConsignmentShopUI.dll

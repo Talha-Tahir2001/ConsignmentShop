@@ -1,0 +1,24 @@
+C:\SampleProj\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\net6.0\ConsignmentShopLibrary.deps.json
+C:\SampleProj\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\net6.0\ConsignmentShopLibrary.dll
+C:\SampleProj\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\net6.0\ConsignmentShopLibrary.pdb
+C:\SampleProj\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.csproj.AssemblyReference.cache
+C:\SampleProj\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\SampleProj\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.AssemblyInfoInputs.cache
+C:\SampleProj\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.AssemblyInfo.cs
+C:\SampleProj\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.csproj.CoreCompileInputs.cache
+C:\SampleProj\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.dll
+C:\SampleProj\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\refint\ConsignmentShopLibrary.dll
+C:\SampleProj\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.pdb
+C:\SampleProj\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ref\ConsignmentShopLibrary.dll
+C:\All Projs\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\net6.0\ConsignmentShopLibrary.deps.json
+C:\All Projs\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\net6.0\ConsignmentShopLibrary.dll
+C:\All Projs\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\net6.0\ConsignmentShopLibrary.pdb
+C:\All Projs\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.csproj.AssemblyReference.cache
+C:\All Projs\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\All Projs\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.AssemblyInfoInputs.cache
+C:\All Projs\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.AssemblyInfo.cs
+C:\All Projs\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.csproj.CoreCompileInputs.cache
+C:\All Projs\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.dll
+C:\All Projs\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\refint\ConsignmentShopLibrary.dll
+C:\All Projs\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.pdb
+C:\All Projs\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ref\ConsignmentShopLibrary.dll
